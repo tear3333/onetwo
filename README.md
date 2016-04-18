@@ -48,7 +48,7 @@ You can check out how to play on our [wiki](https://github.com/huytd/agar.io-clo
 ## Installation
 You can simply click one of the buttons below to easily deploy this repo to Bluemix or Heroku:
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/huytd/agar.io-clone)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/tear3333/onetwo)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 Or...
